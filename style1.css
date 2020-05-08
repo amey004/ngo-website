@@ -1,0 +1,32 @@
+h2{
+	text-shadow:2px 1.5px black;
+	font-family: sans-serif;
+	margin-left: 50px;
+
+}
+h4
+{
+	margin-top: 0px;
+	margin-left: 25px;
+	size: 170%;
+	font-family: "Texta-Heavy", sans-serif;
+	display: block
+}
+.social
+{
+	font-family: "averia serif libre",serif;
+    font-weight: 700;
+    font-size: 100%;
+}
+
+
+.grid-container
+{
+	display: grid ;
+	grid-template-rows: auto auto;
+	grid-template-columns: 600px auto ;
+}
+.grid-container > div 
+{
+	padding: 1px
+}
